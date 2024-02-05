@@ -1072,3 +1072,10 @@
     .footer-link { margin-bottom: 0.3rem; }
   
   }
+
+  .copyright-name{
+    display: block;
+    align: center;
+    background-color: white;
+    padding-left: 450px;
+}
